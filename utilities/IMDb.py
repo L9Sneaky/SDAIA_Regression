@@ -6,6 +6,7 @@ from rich.progress import track
 import re
 import numpy as np
 from os.path import exists
+import ast
 
 def request_url(url:str)->BeautifulSoup:
     """
@@ -57,6 +58,12 @@ def scrap(soap:BeautifulSoup=None)->list:
         lst.append(dic)
     return lst
 
+def try_convert_to_list(value):
+    try:
+        x = ast.literal_eval(value)
+        return x
+    except ValueError:
+        return np.nan
 
 def get_games_data():
     if not exists('data/imbd_games.csv'):
@@ -66,4 +73,6 @@ def get_games_data():
             df_list.append(scrap(soap_))
         return pd.DataFrame([r for d in df_list for r in d])
     else:
-        return pd.read_csv('data/imbd_games.csv').drop('Unnamed: 0', axis=1)
+        df = pd.read_csv('data/imbd_games.csv').drop('Unnamed: 0', axis=1)
+        df['Genre']= df['Genre'].apply(lambda x: try_convert_to_list(x)) 
+        return df
