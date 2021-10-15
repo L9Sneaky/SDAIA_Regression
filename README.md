@@ -41,7 +41,7 @@ IMDb movies dataset will be used for this project. The goal is to apply data pre
 ## Dataset
 -  [IMDb]()
 
-**Instructor:** [**Mr. Srinivas Rao**]()
+**Instructor:** [**Mr. Srinivas Rao**](https://www.linkedin.com/in/srinivas-rao-52068382/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
