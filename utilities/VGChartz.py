@@ -14,15 +14,21 @@ URL = 'https://www.vgchartz.com/games/games.php?page=1&results=200&order=Sales&o
 HEADERS = ['index', 'img', 'Game', 'Console', 'Publisher', 'Developer', 'VGChartz Score', 'Critic Score',
           'User Score', 'Total Shipped', 'Total Sales', 'NA Sales', 'PAL Sales', 'Japan Sales', 'Other Sales',
           'Release Date', 'Last Update', 'ID']
-
+THREAD_ID = None
 UA = UserAgent()
 def request_url(url: str) -> BeautifulSoup:
     """
     Takes website URL and return soup object
     """
+    global THREAD_ID
     headers = {'User-Agent': UA.random}
     try:
         response = requests.get(url, headers=headers)
+        print(f'Thread ID: {THREAD_ID}\nRespose Status: {response.status_code}')
+        if response != 200:
+            # print(f'Game ID:{re.findall('\d+', url.strip())[0]}\nRespose Status: {response.status_code}')
+            time.sleep(2)
+            return request_url(url)
     except (requests.exceptions.ConnectionError, requests.exceptions.HTTPError, requests.exceptions.Timeout, requests.exceptions.RequestException) as e:
         print(type(e).__name__)
         time.sleep(2)
@@ -69,6 +75,8 @@ def scrap(soap: BeautifulSoup = None) -> list:
     return lst[2:]
 
 def get_games_data(start_page:int=1, end_page:int=306, thread_number:int=None):
+    global THREAD_ID
+    THREAD_ID = thread_number
     print(thread_number)
     if not exists('data/VGChartz.csv'):
         df_list = list()
