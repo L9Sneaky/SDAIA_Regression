@@ -11,7 +11,7 @@ import time
 from fake_useragent import UserAgent
 
 URL = 'https://www.vgchartz.com/games/games.php?page=1&results=200&order=Sales&ownership=Both&direction=DESC&showtotalsales=1&shownasales=1&showpalsales=1&showjapansales=1&showothersales=1&showpublisher=1&showdeveloper=1&showreleasedate=1&showlastupdate=1&showvgchartzscore=1&showcriticscore=1&showuserscore=1&showshipped=1&showmultiplat=Yes'
-HEADERS = ['index', 'img', 'Game', 'Console', 'Publisher', 'Developer', 'VGChartz Score', 'Critic Score', 
+HEADERS = ['index', 'img', 'Game', 'Console', 'Publisher', 'Developer', 'VGChartz Score', 'Critic Score',
           'User Score', 'Total Shipped', 'Total Sales', 'NA Sales', 'PAL Sales', 'Japan Sales', 'Other Sales',
           'Release Date', 'Last Update', 'ID']
 
@@ -68,9 +68,9 @@ def scrap(soap: BeautifulSoup = None) -> list:
 def get_games_data():
     if not exists('data/VGChartz.csv'):
         df_list = list()
-        for page in track(range(1, 306), description="[red]Scrapping..."):
+        for page in track(range(1, 306/3), description="[red]Scrapping..."):
             soap_ = request_url(
-                f'https://www.vgchartz.com/games/games.php?page={page}&results=200&order=Sales&ownership=Both&direction=DESC&showtotalsales=1&shownasales=1&showpalsales=1&showjapansales=1&showothersales=1&showpublisher=1&showdeveloper=1&showreleasedate=1&showlastupdate=1&showvgchartzscore=1&showcriticscore=1&showuserscore=1&showshipped=1&showmultiplat=Yes').find('div', id='generalBody').find('table').find_all('tr')[1:]
+                f'https://www.vgchartz.com/games/games.php?page={page}&results=200&order=VGChartzScore&ownership=Both&showtotalsales=1&shownasales=1&showpalsales=1&showjapansales=1&showothersales=1&showpublisher=1&showdeveloper=1&showreleasedate=1&showlastupdate=1&showvgchartzscore=1&showcriticscore=1&showuserscore=1&showshipped=1&showmultiplat=Yes').find('div', id='generalBody').find('table').find_all('tr')[1:]
             descr = scrap(soap_)
             df_list.append(descr)
         df = pd.DataFrame([r for d in df_list for r in d]).reset_index(drop=True)[HEADERS[2:]]
