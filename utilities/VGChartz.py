@@ -39,7 +39,10 @@ def clean_data(data):
 def get_games_details(id:int)-> dict:
     soup = request_url(f'https://www.vgchartz.com/game/{id}/super-mario-galaxy/?region=America')
     left_column = soup.find('div', id='left_column')
-    genre = left_column.find('div', id='gameGenInfoBox').find(text="Genre").findNext('p').contents[0]
+    try:
+        genre = left_column.find('div', id='gameGenInfoBox').find(text="Genre").findNext('p').contents[0]
+    except Exception:
+        print(f'Error at {id}')
     return {'ID': id,'Genre' : genre}
 
 def scrap(soap: BeautifulSoup = None) -> list:
@@ -65,18 +68,20 @@ def scrap(soap: BeautifulSoup = None) -> list:
         lst.append(dic)
     return lst[2:]
 
-def get_games_data(start_page:int=1, end_page:int=306):
+def get_games_data(start_page:int=1, end_page:int=306, thread_number:int=None):
+    print(thread_number)
     if not exists('data/VGChartz.csv'):
         df_list = list()
-        for page in track(range(start_page, end_page), description="[red]Scrapping..."):
+        for page in range(start_page, end_page):
             soap_ = request_url(
                 f'https://www.vgchartz.com/games/games.php?page={page}&results=200&order=VGChartzScore&ownership=Both&showtotalsales=1&shownasales=1&showpalsales=1&showjapansales=1&showothersales=1&showpublisher=1&showdeveloper=1&showreleasedate=1&showlastupdate=1&showvgchartzscore=1&showcriticscore=1&showuserscore=1&showshipped=1&showmultiplat=Yes').find('div', id='generalBody').find('table').find_all('tr')[1:]
             descr = scrap(soap_)
             df_list.append(descr)
         df = pd.DataFrame([r for d in df_list for r in d]).reset_index(drop=True)[HEADERS[2:]]
         lst = list()
-        for i in track(df.ID, description='[blue]Scrapping Genre...'):
+        for i in df.ID:
             lst.append(get_games_details(i))
+        print(f'{thread_number} is done!')
         return df.merge(pd.DataFrame(lst), on='ID')
     else:
         df = pd.read_csv('data/VGChartz.csv').drop('Unnamed: 0', axis=1)
