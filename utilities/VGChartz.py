@@ -14,19 +14,24 @@ URL = 'https://www.vgchartz.com/games/games.php?page=1&results=200&order=Sales&o
 HEADERS = ['index', 'img', 'Game', 'Console', 'Publisher', 'Developer', 'VGChartz Score', 'Critic Score',
           'User Score', 'Total Shipped', 'Total Sales', 'NA Sales', 'PAL Sales', 'Japan Sales', 'Other Sales',
           'Release Date', 'Last Update', 'ID']
-THREAD_ID = None
+
 UA = UserAgent()
 def request_url(url: str) -> BeautifulSoup:
     """
-    Takes website URL and return soup object
+    Takes website URL and return soup object by using different User-Agent everytime you make a request.
+    Parameters
+    ----------
+    url: it's a sting that hold the Uniform Resource Locators aka URL.
+
+    Returns
+    ----------
+    BeautifulSoup object that contain the html of the given url.
     """
     global THREAD_ID
     headers = {'User-Agent': UA.random}
     try:
         response = requests.get(url, headers=headers)
-        print(f'Thread ID: {THREAD_ID}\nRespose Status: {response.status_code}')
         if response != 200:
-            # print(f'Game ID:{re.findall('\d+', url.strip())[0]}\nRespose Status: {response.status_code}')
             time.sleep(2)
             return request_url(url)
     except (requests.exceptions.ConnectionError, requests.exceptions.HTTPError, requests.exceptions.Timeout, requests.exceptions.RequestException) as e:
@@ -74,10 +79,7 @@ def scrap(soap: BeautifulSoup = None) -> list:
         lst.append(dic)
     return lst[2:]
 
-def get_games_data(start_page:int=1, end_page:int=306, thread_number:int=None):
-    global THREAD_ID
-    THREAD_ID = thread_number
-    print(thread_number)
+def get_games_data(start_page:int=1, end_page:int=306):
     if not exists('data/VGChartz.csv'):
         df_list = list()
         for page in range(start_page, end_page):
@@ -89,7 +91,6 @@ def get_games_data(start_page:int=1, end_page:int=306, thread_number:int=None):
         lst = list()
         for i in df.ID:
             lst.append(get_games_details(i))
-        print(f'{thread_number} is done!')
         return df.merge(pd.DataFrame(lst), on='ID')
     else:
         df = pd.read_csv('data/VGChartz.csv').drop('Unnamed: 0', axis=1)
