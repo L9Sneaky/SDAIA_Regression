@@ -65,10 +65,10 @@ def scrap(soap: BeautifulSoup = None) -> list:
         lst.append(dic)
     return lst[2:]
 
-def get_games_data():
+def get_games_data(start_page:int=1, end_page:int=306):
     if not exists('data/VGChartz.csv'):
         df_list = list()
-        for page in track(range(1, 306/3), description="[red]Scrapping..."):
+        for page in track(range(start_page, end_page), description="[red]Scrapping..."):
             soap_ = request_url(
                 f'https://www.vgchartz.com/games/games.php?page={page}&results=200&order=VGChartzScore&ownership=Both&showtotalsales=1&shownasales=1&showpalsales=1&showjapansales=1&showothersales=1&showpublisher=1&showdeveloper=1&showreleasedate=1&showlastupdate=1&showvgchartzscore=1&showcriticscore=1&showuserscore=1&showshipped=1&showmultiplat=Yes').find('div', id='generalBody').find('table').find_all('tr')[1:]
             descr = scrap(soap_)
