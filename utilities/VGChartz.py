@@ -31,12 +31,13 @@ def request_url(url: str) -> BeautifulSoup:
     headers = {'User-Agent': UA.random}
     try:
         response = requests.get(url, headers=headers)
-        if response != 200:
-            time.sleep(2)
+        if response.status_code != 200:
+            print(response.status_code)
+            time.sleep(3)
             return request_url(url)
     except (requests.exceptions.ConnectionError, requests.exceptions.HTTPError, requests.exceptions.Timeout, requests.exceptions.RequestException) as e:
         print(type(e).__name__)
-        time.sleep(2)
+        time.sleep(3)
         return request_url(url)
     soup = BeautifulSoup(response.content, "html5lib")
     return soup
@@ -89,7 +90,7 @@ def get_games_data(start_page:int=1, end_page:int=306):
             df_list.append(descr)
         df = pd.DataFrame([r for d in df_list for r in d]).reset_index(drop=True)[HEADERS[2:]]
         lst = list()
-        for i in df.ID:
+        for i in track(df.ID, description='[blue]Scrapping Genre...'):
             lst.append(get_games_details(i))
         return df.merge(pd.DataFrame(lst), on='ID')
     else:
