@@ -1,0 +1,401 @@
+,ID,Name,Genre,Console,Rating,Global_Sales,VGChartz Score,Critic Score,Critic_Count,User Score,User_Count,Release Date
+0,6963,Super Mario Galaxy,Platform,Wii,E,11.35,9.6,9.7,73.0,9.6,2147.0,12th Nov 07
+1,35084,Super Mario Galaxy 2,Platform,Wii,E,7.51,9.6,9.7,87.0,9.8,1854.0,23rd May 10
+2,6970,Metal Gear Solid 4: Guns of the Patriots,Action,PS3,M,5.99,9.5,9.3,82.0,9.8,3558.0,12th Jun 08
+3,17684,World of Goo,Puzzle,PC,E,0.04,9.5,9.0,26.0,,607.0,21st Oct 08
+4,12533,God of War III,Action,PS3,M,4.8,9.4,9.2,101.0,9.4,2633.0,16th Mar 10
+5,7100,Shadow of the Colossus,Adventure,PS2,T,1.14,9.4,9.1,77.0,9.4,933.0,18th Oct 05
+6,18897,Valkyria Chronicles,Role-Playing,PS3,T,1.27,9.4,8.4,60.0,9.8,433.0,04th Nov 08
+7,22192,BioShock,Shooter,PS3,M,1.42,9.3,9.3,51.0,9.6,881.0,21st Oct 08
+8,7023,BioShock,Shooter,X360,M,2.83,9.3,9.6,88.0,9.5,2249.0,21st Aug 07
+9,24661,Grand Theft Auto: Chinatown Wars,Adventure,DS,M,1.32,9.3,9.5,85.0,9.6,280.0,17th Mar 09
+10,17011,GRID,Racing,PS3,E,1.1,9.3,8.6,39.0,,109.0,03rd Jun 08
+11,17012,GRID,Racing,X360,E,0.87,9.3,8.7,62.0,,131.0,03rd Jun 08
+12,1339,Metroid Prime,Shooter,GC,T,2.82,9.3,9.6,70.0,9.5,747.0,17th Nov 02
+13,34707,Metroid Prime: Trilogy,Shooter,Wii,T,0.61,9.3,9.0,48.0,9.6,316.0,24th Aug 09
+14,24280,Rock Band 2,Misc,PS3,T,1.49,9.3,8.9,24.0,,88.0,19th Oct 08
+15,24278,Rock Band 2,Misc,Wii,T,1.02,9.3,9.0,10.0,,45.0,18th Dec 08
+16,24279,Rock Band 2,Misc,X360,T,2.2,9.3,9.2,69.0,,156.0,14th Sep 08
+17,24780,Shin Megami Tensei: Persona 4,Role-Playing,PS2,M,0.82,9.3,9.2,47.0,,634.0,08th Dec 08
+18,4573,The Legend of Zelda: Twilight Princess,Adventure,Wii,T,7.15,9.3,9.5,73.0,9.6,1658.0,19th Nov 06
+19,16116,The World Ends With You,Role-Playing,DS,T,0.78,9.3,8.6,59.0,,283.0,21st Apr 08
+20,13817,Alan Wake,Action,X360,T,1.33,9.2,8.3,100.0,,1156.0,18th May 10
+21,33504,Dragon Age: Origins,Role-Playing,PC,M,0.51,9.2,9.1,67.0,,3542.0,03rd Nov 09
+22,12390,LittleBigPlanet,Platform,PS3,E,5.82,9.2,9.4,85.0,9.2,5311.0,28th Oct 08
+23,6962,Super Smash Bros. Brawl,Fighting,Wii,T,12.84,9.2,9.2,81.0,9.7,1662.0,09th Mar 08
+24,6790,The Legend of Zelda: Phantom Hourglass,Adventure,DS,E,5.08,9.2,9.1,57.0,,416.0,02nd Oct 07
+25,28733,Uncharted 2: Among Thieves,Action,PS3,T,6.66,9.2,9.5,105.0,9.6,5187.0,13th Oct 09
+26,31493,Batman: Arkham Asylum,Action,PS3,T,4.23,9.1,9.0,70.0,,1122.0,25th Aug 09
+27,25464,Bayonetta,Action,X360,M,0.93,9.1,8.9,86.0,9.5,597.0,05th Jan 10
+28,28004,BioShock 2,Shooter,PS3,M,1.54,9.1,8.5,62.0,,492.0,09th Feb 10
+29,28002,BioShock 2,Shooter,X360,M,2.2,9.1,8.6,93.0,,573.0,09th Feb 10
+30,44025,DiRT 3,Racing,X360,T,0.72,9.1,9.1,81.0,,166.0,24th May 11
+31,7703,Heavy Rain,Adventure,PS3,M,3.03,9.1,8.8,107.0,8.6,2759.0,23rd Feb 10
+32,12253,Killzone 2,Shooter,PS3,M,3.01,9.1,9.1,94.0,9.3,1505.0,27th Feb 09
+34,26681,Monster Hunter Tri,Role-Playing,Wii,T,2.22,9.1,8.1,70.0,10.0,219.0,20th Apr 10
+35,35076,New Super Mario Bros. Wii,Platform,Wii,E,28.32,9.1,8.6,80.0,9.2,594.0,15th Nov 09
+36,31326,Red Dead Redemption,Action,PS3,M,6.49,9.1,9.5,73.0,,2456.0,11th Oct 11
+37,31325,Red Dead Redemption,Action,X360,M,6.32,9.1,9.5,96.0,10.0,2316.0,18th May 10
+38,12846,Rock Band,Misc,PS3,T,1.62,9.1,9.1,35.0,,107.0,20th Nov 07
+39,6965,Rock Band,Misc,X360,T,2.47,9.1,9.1,72.0,,178.0,20th Nov 07
+40,13112,Street Fighter IV,Fighting,PS3,T,4.16,9.1,9.3,61.0,9.0,330.0,17th Feb 09
+41,16065,Street Fighter IV,Fighting,X360,T,2.94,9.1,9.3,77.0,9.3,292.0,17th Feb 09
+42,27959,The Witcher: Enhanced Edition,Role-Playing,PC,M,0.32,9.1,8.3,30.0,,1660.0,16th Sep 08
+44,29053,Assassin's Creed II,Action,PS3,M,5.55,9.0,9.0,70.0,,1202.0,17th Nov 09
+45,29056,Assassin's Creed II,Action,X360,M,5.26,9.0,9.1,82.0,,1305.0,17th Nov 09
+46,31494,Batman: Arkham Asylum,Action,X360,T,3.48,9.0,9.1,78.0,,1080.0,25th Aug 09
+47,28847,Call of Duty: Modern Warfare 2,Shooter,PS3,M,10.6,9.0,9.5,67.0,,2073.0,10th Nov 09
+48,28848,Call of Duty: Modern Warfare 2,Shooter,X360,M,13.47,9.0,9.5,100.0,9.0,2698.0,10th Nov 09
+49,641,Elite Beat Agents,Misc,DS,E10+,0.36,9.0,8.4,51.0,,105.0,06th Nov 06
+50,34959,FIFA Soccer 10,Sports,PS3,E,3.62,9.0,9.0,56.0,,203.0,20th Oct 09
+51,35354,FIFA Soccer 10,Sports,X360,E,2.62,9.0,8.9,63.0,,133.0,20th Oct 09
+52,13437,Final Fantasy IV,Role-Playing,DS,E10+,1.21,9.0,8.5,52.0,9.0,164.0,21st Jul 08
+53,7727,Final Fantasy XIII,Role-Playing,PS3,T,5.33,9.0,8.0,83.0,9.2,2483.0,09th Mar 10
+54,24628,Final Fantasy XIII,Role-Playing,X360,T,2.16,9.0,8.1,54.0,,539.0,09th Mar 10
+55,16548,Gears of War 2,Shooter,X360,M,6.75,9.0,9.4,90.0,9.5,2739.0,07th Nov 08
+56,38409,God of War Collection,Action,PS3,M,2.6,9.0,9.2,50.0,,529.0,17th Nov 09
+57,7102,Grand Theft Auto IV,Action,PS3,M,10.5,9.0,10.0,64.0,9.0,2833.0,29th Apr 08
+58,7103,Grand Theft Auto IV,Action,X360,M,11.01,9.0,10.0,86.0,,2951.0,29th Apr 08
+59,3535,Jeanne d'Arc,Role-Playing,PSP,T,0.33,9.0,8.4,45.0,,74.0,21st Aug 07
+60,24035,Kirby Super Star Ultra,Platform,DS,E,2.92,9.0,7.3,40.0,,76.0,22nd Sep 08
+61,35022,Left 4 Dead 2,Shooter,PC,M,0.36,9.0,9.0,55.0,,2530.0,17th Nov 09
+62,35020,Left 4 Dead 2,Shooter,X360,M,3.97,9.0,9.0,76.0,,681.0,17th Nov 09
+63,13008,Professor Layton and the Diabolical Box,Adventure,DS,E10+,3.94,9.0,8.5,65.0,,72.0,24th Aug 09
+65,31023,The Beatles: Rock Band,Misc,PS3,T,1.12,9.0,8.7,60.0,,59.0,09th Sep 09
+66,31026,The Beatles: Rock Band,Misc,Wii,T,1.71,9.0,9.0,25.0,,43.0,09th Sep 09
+67,31024,The Beatles: Rock Band,Misc,X360,T,1.3,9.0,8.9,76.0,,127.0,09th Sep 09
+68,32942,The Legend of Zelda: Spirit Tracks,Adventure,DS,E10+,3.31,9.0,8.7,75.0,,228.0,07th Dec 09
+69,14750,Dissidia: Final Fantasy,Fighting,PSP,T,2.23,8.9,8.1,61.0,10.0,139.0,25th Aug 09
+70,13868,Left 4 Dead,Shooter,X360,M,3.51,8.9,8.7,67.0,9.0,1309.0,18th Oct 08
+71,27610,No More Heroes 2: Desperate Struggle,Action,Wii,M,0.39,8.9,8.5,68.0,,184.0,26th Jan 10
+72,41581,PixelJunk Monsters Deluxe,Strategy,PSP,E,0.12,8.9,8.7,27.0,,32.0,27th Apr 10
+73,25553,Rhythm Heaven,Music,DS,E,3.11,8.9,8.5,48.0,,63.0,05th Apr 09
+74,33214,Silent Hill: Shattered Memories,Adventure,Wii,M,0.47,8.9,7.3,56.0,6.8,226.0,08th Dec 09
+75,13820,StarCraft II: Wings of Liberty,Strategy,PC,T,4.84,8.9,9.3,82.0,,3052.0,27th Jul 10
+76,2281,Super Mario Sunshine,Platform,GC,E,6.31,8.9,9.2,61.0,,439.0,25th Aug 02
+77,31444,Battlefield: Bad Company 2,Shooter,PC,M,0.72,8.8,8.8,46.0,,1467.0,02nd Mar 10
+78,23993,Call of Duty: World at War,Shooter,PS3,M,5.39,8.8,8.4,45.0,,409.0,10th Nov 08
+79,23992,Call of Duty: World at War,Shooter,X360,M,7.38,8.8,8.5,84.0,7.8,580.0,10th Nov 08
+80,24237,Chrono Trigger,Role-Playing,DS,E10+,1.34,8.8,9.2,57.0,,440.0,25th Nov 08
+81,30331,Disgaea 2: Dark Hero Days,Role-Playing,PSP,T,0.25,8.8,8.1,33.0,,47.0,08th Sep 09
+82,843,Gears of War,Shooter,X360,M,6.09,8.8,9.4,88.0,9.4,2295.0,07th Nov 06
+83,6964,Halo 3,Shooter,X360,M,12.12,8.8,9.6,86.0,9.5,4100.0,25th Sep 07
+84,7198,ICO,Adventure,PS2,T,0.47,8.8,8.8,59.0,,328.0,24th Sep 01
+85,25648,Little King's Story,Strategy,Wii,T,0.29,8.8,8.5,50.0,9.0,86.0,21st Jul 09
+86,24996,NBA 2K9,Sports,PS3,E,0.61,8.8,8.3,30.0,,37.0,07th Oct 08
+87,32735,Ninja Gaiden Sigma 2,Action,PS3,M,0.85,8.8,8.5,52.0,,115.0,29th Sep 09
+89,34998,Scribblenauts,Puzzle,DS,E10+,2.16,8.8,8.2,72.0,,110.0,15th Sep 09
+90,18652,Tales of Vesperia,Role-Playing,X360,T,0.74,8.8,8.1,67.0,9.2,264.0,26th Aug 08
+91,6071,The Elder Scrolls IV: Oblivion,Role-Playing,PS3,M,3.1,8.8,9.3,45.0,,604.0,20th Mar 07
+92,636,The Elder Scrolls IV: Oblivion,Role-Playing,X360,M,4.38,8.8,9.2,90.0,,1109.0,07th Jul 09
+93,17805,The Sims 3,Simulation,PC,T,8.01,8.8,8.5,75.0,,886.0,02nd Jun 09
+94,32292,Tiger Woods PGA Tour 10,Sports,Wii,E,1.07,8.8,9.0,44.0,,57.0,08th Jun 09
+96,24656,Wii Sports Resort,Sports,Wii,E,32.77,8.8,8.0,73.0,8.8,192.0,26th Jul 09
+97,7706,Advance Wars: Days of Ruin,Strategy,DS,E10+,0.61,8.7,8.4,55.0,,96.0,21st Jan 08
+98,29384,Age of Empires: Mythologies,Strategy,DS,E10+,0.21,8.7,8.2,28.0,,20.0,24th Nov 08
+99,25237,Braid,Platform,PC,E10+,0.03,8.7,8.8,11.0,,819.0,10th Apr 09
+101,31932,Dead Space Extraction,Shooter,Wii,M,0.47,8.7,8.2,76.0,,82.0,28th Sep 09
+102,31689,Demon's Souls,Role-Playing,PS3,M,1.82,8.7,9.1,81.0,9.5,1441.0,06th Oct 09
+103,3316,Final Fantasy Tactics: The War of the Lions,Role-Playing,PSP,T,1.16,8.7,8.9,41.0,,238.0,09th Oct 07
+105,22383,MadWorld,Action,Wii,M,0.77,8.7,8.1,74.0,8.1,176.0,10th Mar 09
+106,6968,Mario Kart Wii,Racing,Wii,E,35.52,8.7,8.2,73.0,9.1,709.0,27th Apr 08
+107,16067,Mass Effect,Role-Playing,PC,M,0.67,8.7,9.1,45.0,,2386.0,28th May 08
+108,22061,MotorStorm: Pacific Rift,Racing,PS3,T,1.35,8.7,8.0,63.0,8.7,318.0,28th Oct 08
+109,15255,Resistance 2,Shooter,PS3,M,2.46,8.7,8.5,79.0,8.7,1889.0,04th Nov 08
+110,23722,Sid Meier's Civilization Revolution,Strategy,PS3,E10+,0.78,8.7,8.4,39.0,,87.0,08th Jul 08
+111,12778,Uncharted: Drake's Fortune,Action,PS3,T,4.92,8.7,8.7,66.0,8.6,2306.0,16th Nov 07
+112,13325,Unreal Tournament III,Shooter,PS3,M,0.67,8.7,8.6,42.0,,127.0,11th Dec 07
+113,12466,Virtua Fighter 5 Online,Fighting,X360,T,0.28,8.7,9.2,36.0,,62.0,30th Oct 07
+114,13825,Borderlands,Shooter,PS3,M,2.09,8.6,8.2,58.0,,427.0,20th Oct 09
+115,13826,Borderlands,Shooter,X360,M,3.44,8.6,8.3,83.0,,715.0,20th Oct 09
+118,3330,Final Fantasy XII: Revenant Wings,Role-Playing,DS,E10+,1.37,8.6,8.2,44.0,,60.0,20th Nov 07
+119,25700,Fire Emblem: Shadow Dragon,Strategy,DS,E10+,0.61,8.6,8.2,42.0,,106.0,16th Feb 09
+120,33187,Madden NFL 10,Sports,PS3,E,2.37,8.6,8.5,41.0,,58.0,14th Aug 09
+121,33189,Madden NFL 10,Sports,X360,E,2.83,8.6,8.6,58.0,,90.0,14th Aug 09
+122,33609,Muramasa: The Demon Blade,Role-Playing,Wii,T,0.6,8.6,8.0,58.0,9.3,101.0,08th Sep 09
+123,31147,Need for Speed: Shift,Racing,PS3,E,2.65,8.6,8.2,55.0,,113.0,15th Sep 09
+124,31149,Need for Speed: Shift,Racing,X360,E,1.91,8.6,8.2,75.0,,134.0,15th Sep 09
+125,35054,NHL 10,Sports,PS3,E10+,0.57,8.6,9.1,35.0,,40.0,15th Sep 09
+126,35055,NHL 10,Sports,X360,E10+,0.66,8.6,9.1,52.0,,71.0,15th Sep 09
+127,23265,Rune Factory: Frontier,Role-Playing,Wii,E10+,0.37,8.6,7.9,34.0,,39.0,17th Mar 09
+128,16649,Space Invaders Extreme,Shooter,DS,E,0.15,8.6,8.3,41.0,,16.0,17th Jun 08
+129,26680,Yakuza 3,Adventure,PS3,M,1.12,8.6,7.9,77.0,,165.0,09th Mar 10
+130,13684,Boom Blox,Puzzle,Wii,E,1.21,8.5,8.6,61.0,8.9,105.0,06th May 08
+132,7385,Crisis Core: Final Fantasy VII,Role-Playing,PSP,T,3.18,8.5,8.1,67.0,9.0,463.0,25th Mar 08
+133,28960,DiRT 2,Racing,PS3,T,0.99,8.5,8.8,63.0,,94.0,08th Sep 09
+134,28959,DiRT 2,Racing,X360,T,0.8,8.5,8.8,65.0,,110.0,08th Sep 09
+135,33502,Dragon Age: Origins,Role-Playing,PS3,M,1.67,8.5,8.7,41.0,,597.0,03rd Nov 09
+136,32212,ExciteBots: Trick Racing,Racing,Wii,E,0.26,8.5,7.7,29.0,,26.0,20th Apr 09
+137,7636,Fable II,Role-Playing,X360,M,4.27,8.5,9.0,95.0,9.3,2423.0,21st Oct 08
+138,35237,Half-Minute Hero,Role-Playing,PSP,E10+,0.18,8.5,8.5,41.0,,38.0,13th Oct 09
+139,7397,Kingdom Hearts 358/2 Days,Role-Playing,DS,E10+,1.98,8.5,7.5,53.0,,162.0,29th Sep 09
+140,7635,Mass Effect,Role-Playing,X360,M,2.91,8.5,9.2,74.0,9.1,1692.0,20th Nov 07
+141,30086,MLB 09: The Show,Sports,PS3,E,0.72,8.5,8.9,27.0,,61.0,03rd Mar 09
+142,3850,MotorStorm,Racing,PS3,T,3.87,8.5,8.2,9.0,,220.0,06th Mar 07
+143,13444,Patapon,Platform,PSP,E,0.81,8.5,8.7,60.0,,102.0,26th Feb 08
+144,32805,Picross 3D,Puzzle,DS,E,0.49,8.5,8.7,35.0,,33.0,03rd May 10
+146,1893,Resistance: Fall of Man,Shooter,PS3,M,4.34,8.5,8.5,70.0,9.1,715.0,14th Nov 06
+147,23927,Shaun White Snowboarding: Road Trip,Sports,Wii,E10+,1.66,8.5,7.8,28.0,,22.0,16th Nov 08
+148,34867,Shin Megami Tensei: Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon,Role-Playing,PS2,M,0.13,8.5,8.0,23.0,,26.0,12th May 09
+149,21982,Sid Meier's Civilization Revolution,Strategy,DS,E10+,0.44,8.5,8.2,26.0,7.6,21.0,08th Jul 08
+150,16290,The Movies,Simulation,PC,T,0.04,8.5,8.2,62.0,,131.0,08th Nov 05
+151,33988,Ace Attorney Investigations: Miles Edgeworth,Adventure,DS,T,0.7,8.4,7.7,51.0,,79.0,16th Feb 10
+152,25465,Bayonetta,Action,PS3,M,1.21,8.4,8.6,54.0,7.2,355.0,05th Jan 10
+153,23991,Call of Duty: World at War,Shooter,Wii,M,1.94,8.4,8.1,19.0,8.9,78.0,10th Nov 08
+154,23324,Dead Space,Shooter,PC,M,0.59,8.4,8.8,28.0,,1093.0,20th Oct 08
+155,13107,Dead Space,Shooter,PS3,M,2.0,8.4,8.9,67.0,,545.0,13th Oct 08
+156,23325,Dead Space,Shooter,X360,M,1.4,8.4,8.9,79.0,,768.0,13th Oct 08
+157,24178,Diablo III,Role-Playing,PC,M,5.14,8.4,9.0,86.0,,9629.0,15th May 12
+158,7693,Dragon Quest V: Hand of the Heavenly Bride,Role-Playing,DS,E10+,1.57,8.4,8.6,46.0,,57.0,17th Feb 09
+159,6972,Gran Turismo 5 Prologue,Racing,PS3,E,4.19,8.4,8.3,67.0,,120.0,15th Apr 08
+160,29077,Halo 3: ODST,Shooter,X360,M,6.34,8.4,8.7,94.0,,1163.0,22nd Sep 09
+161,7715,Halo Wars,Strategy,X360,T,2.62,8.4,8.1,92.0,8.5,454.0,03rd Mar 09
+162,1188,LocoRoco,Platform,PSP,E,0.38,8.0,8.1,67.0,,89.0,05th Sep 06
+163,72061,Plants vs. Zombies,Misc,PC,E10+,0.05,8.4,,41.0,,891.0,05th May 09
+164,34015,Plants vs. Zombies,Strategy,PC,E10+,0.05,8.4,9.0,41.0,,891.0,05th May 09
+165,24825,Prince of Persia,Adventure,PS3,T,1.07,8.4,8.3,59.0,8.2,245.0,02nd Dec 08
+166,24824,Prince of Persia,Adventure,X360,T,1.01,8.4,8.2,73.0,6.0,189.0,02nd Dec 08
+167,29141,Prinny: Can I Really Be the Hero?,Platform,PSP,T,0.09,8.4,7.2,45.0,,41.0,17th Feb 09
+168,7675,Resident Evil 5,Action,PS3,M,5.09,8.4,8.6,76.0,8.8,667.0,13th Mar 09
+169,7676,Resident Evil 5,Action,X360,M,3.5,8.4,8.6,91.0,,523.0,13th Mar 09
+170,34952,Band Hero,Misc,PS3,E10+,0.74,8.3,7.6,45.0,,9.0,03rd Nov 09
+171,37171,Band Hero,Misc,X360,E10+,0.79,8.3,7.6,52.0,,30.0,03rd Nov 09
+172,24075,Castlevania: Order of Ecclesia,Platform,DS,T,0.36,8.3,8.2,46.0,9.2,111.0,21st Oct 08
+173,33505,Dragon Age: Origins,Role-Playing,X360,M,2.56,8.3,8.5,68.0,,725.0,03rd Nov 09
+174,6979,Endless Ocean,Adventure,Wii,E,1.06,8.3,6.8,42.0,,61.0,21st Jan 08
+175,13869,Fallout 3,Role-Playing,PC,M,0.98,8.3,9.0,48.0,,3450.0,28th Oct 08
+176,35368,Ghostbusters: The Video Game,Action,PS3,T,0.84,8.3,7.8,74.0,,96.0,16th Jun 09
+177,35367,Ghostbusters: The Video Game,Action,X360,T,0.63,8.3,7.7,53.0,,125.0,16th Jun 09
+178,71502,GRID 2,Misc,X360,E,0.27,8.3,,51.0,,156.0,28th May 13
+179,84065,Life is Strange,Adventure,XOne,M,0.13,8.3,,4.0,,123.0,19th Jan 16
+180,21685,Mirror's Edge,Platform,PS3,T,1.13,8.3,7.7,66.0,8.2,362.0,11th Nov 08
+181,21686,Mirror's Edge,Platform,X360,T,1.16,8.3,7.6,82.0,,328.0,11th Nov 08
+182,17391,Ninja Gaiden: Dragon Sword,Action,DS,T,0.21,8.3,8.0,52.0,,36.0,25th Mar 08
+184,12807,Retro Game Challenge,Action,DS,E,0.11,8.3,8.1,30.0,,15.0,10th Feb 09
+185,19541,The Conduit,Shooter,Wii,T,0.57,8.3,6.6,79.0,8.2,258.0,23rd Jun 09
+186,14180,Unreal Tournament III,Shooter,X360,M,0.47,8.3,7.8,47.0,,95.0,07th Jul 08
+188,37830,3D Dot Game Heroes,Role-Playing,PS3,E10+,0.57,8.2,7.5,66.0,,96.0,11th May 10
+189,25780,Darksiders,Action,PS3,M,0.02,8.2,7.8,73.0,8.5,319.0,05th Jan 10
+190,25779,Darksiders,Action,X360,M,1.06,8.2,7.8,81.0,,292.0,05th Jan 10
+191,7728,Disgaea 3: Absence of Justice,Role-Playing,PS3,T,0.52,8.2,7.8,51.0,,150.0,26th Aug 08
+192,33783,F1 2010,Racing,X360,E,0.88,8.2,8.4,43.0,,65.0,21st Sep 10
+193,51209,F1 2011,Racing,X360,E,0.72,8.2,8.5,61.0,,54.0,20th Sep 11
+194,6993,Fallout 3,Role-Playing,PS3,M,3.94,8.2,8.8,57.0,,910.0,28th Oct 08
+195,6992,Fallout 3,Role-Playing,X360,M,4.93,8.2,9.0,84.0,8.6,1655.0,28th Oct 08
+196,13108,inFAMOUS,Action,PS3,T,2.93,8.2,8.7,98.0,9.1,1172.0,26th May 09
+197,70139,MotorStorm RC,Racing,PSV,E,0.06,8.2,,39.0,,123.0,06th Mar 12
+199,28940,Nostalgia,Role-Playing,DS,E10+,0.19,8.2,7.2,36.0,,19.0,27th Oct 09
+200,39111,Star Ocean: The Last Hope International,Role-Playing,PS3,T,0.72,8.2,8.1,45.0,9.5,155.0,09th Feb 10
+201,31705,Teenage Mutant Ninja Turtles: Smash-Up,Fighting,Wii,E10+,0.35,8.2,7.2,34.0,,21.0,22nd Sep 09
+202,25591,The Godfather II,Adventure,PS3,M,0.74,8.2,6.4,53.0,,50.0,07th Apr 09
+203,25590,The Godfather II,Adventure,X360,M,0.79,8.2,6.2,72.0,,60.0,07th Apr 09
+204,25935,The House of the Dead: Overkill,Shooter,Wii,M,0.85,8.2,7.9,65.0,,95.0,10th Feb 09
+205,2619,Viva Pinata,Simulation,X360,E,1.62,8.2,8.4,65.0,,131.0,09th Nov 06
+206,12378,Final Fantasy Tactics A2: Grimoire of the Rift,Role-Playing,DS,E10+,0.75,8.1,8.1,47.0,,106.0,24th Jun 08
+207,42744,Hot Shots Tennis: Get a Grip,Sports,PSP,E,0.21,8.1,8.0,27.0,,17.0,29th Jun 10
+208,1113,Killzone: Liberation,Shooter,PSP,T,0.89,8.1,7.8,56.0,,80.0,31st Oct 06
+210,27535,Skate 2,Sports,PS3,T,0.84,8.1,8.2,50.0,,53.0,21st Jan 09
+211,27534,Skate 2,Sports,X360,T,1.09,8.1,8.2,70.0,,72.0,21st Jan 09
+212,32984,Suikoden Tierkreis,Role-Playing,DS,E10+,0.26,8.1,7.7,24.0,,37.0,17th Mar 09
+213,6151,WarioWare: Smooth Moves,Puzzle,Wii,E10+,2.89,8.1,8.2,61.0,,179.0,15th Jan 07
+214,51793,Wipeout 2048,Racing,PSV,E10+,0.35,8.1,,63.0,,191.0,15th Feb 12
+215,682,Excite Truck,Racing,Wii,E,0.53,8.0,7.0,57.0,,83.0,19th Nov 06
+216,70928,F1 2012,Racing,X360,E,0.49,8.0,8.5,42.0,,56.0,18th Sep 12
+217,76415,F1 2013,Racing,X360,E,0.3,8.0,,29.0,,33.0,08th Oct 13
+218,30702,Call of Juarez: Bound in Blood,Shooter,PS3,M,0.88,8.0,7.7,47.0,,91.0,30th Jun 09
+219,30701,Call of Juarez: Bound in Blood,Shooter,X360,M,0.6,8.0,7.6,77.0,,94.0,30th Jun 09
+220,6991,DiRT,Racing,PS3,E,1.05,8.0,8.3,32.0,,32.0,11th Sep 07
+221,6710,DiRT,Racing,X360,E,0.87,8.0,8.4,59.0,,94.0,19th Jun 07
+222,34272,DJ Hero,Misc,PS3,T,0.9,8.0,8.5,53.0,,49.0,27th Oct 09
+223,34270,DJ Hero,Misc,Wii,T,0.76,8.0,8.6,22.0,,19.0,27th Oct 09
+224,34271,DJ Hero,Misc,X360,T,1.06,8.0,8.4,72.0,,42.0,27th Oct 09
+225,7692,Dragon Quest IV: Chapters of the Chosen,Role-Playing,DS,E10+,1.62,8.0,8.1,44.0,8.0,50.0,16th Sep 08
+226,33482,Guitar Hero On Tour: Modern Hits,Misc,DS,E10+,0.37,8.0,7.3,30.0,,7.0,09th Jun 09
+227,32173,MotorStorm: Arctic Edge,Racing,PSP,T,1.02,8.0,7.7,58.0,,39.0,29th Sep 09
+228,13861,Ninjatown,Strategy,DS,E,0.13,8.0,,40.0,,21.0,28th Oct 08
+229,4009,Phoenix Wright: Ace Attorney,Adventure,DS,T,0.92,8.0,8.1,53.0,,203.0,12th Oct 05
+230,18651,Puchi Puchi Virus,Puzzle,DS,E,0.08,8.0,7.4,17.0,,5.0,20th May 09
+231,16284,Red Steel 2,Shooter,Wii,T,0.62,8.0,7.8,73.0,8.5,178.0,23rd Mar 10
+232,33401,Resonance of Fate,Role-Playing,PS3,T,0.73,8.0,7.5,42.0,8.2,136.0,16th Mar 10
+233,33400,Resonance of Fate,Role-Playing,X360,T,0.33,8.0,7.4,43.0,,96.0,16th Mar 10
+234,4207,Rune Factory: A Fantasy Harvest Moon,Role-Playing,DS,E,0.53,8.0,8.1,26.0,,52.0,14th Aug 07
+235,6988,Skate,Sports,PS3,T,0.37,8.0,,31.0,,57.0,24th Sep 07
+237,7480,Wii Fit,Sports,Wii,E,22.7,8.0,7.9,63.0,,146.0,21st May 08
+238,23193,WWE SmackDown vs. Raw 2009,Fighting,Wii,T,0.83,8.0,8.2,18.0,,18.0,09th Nov 08
+239,4008,Apollo Justice: Ace Attorney,Adventure,DS,T,0.99,7.9,8.0,48.0,,84.0,19th Feb 08
+240,73076,Dead Rising 3,Action,XOne,M,1.57,7.9,,69.0,,908.0,22nd Nov 13
+241,27307,Final Fantasy Crystal Chronicles: Echoes of Time,Role-Playing,DS,E10+,0.47,7.9,7.7,37.0,,21.0,24th Mar 09
+242,12743,Fire Pro Wrestling Returns,Fighting,PS2,T,0.09,7.9,,12.0,,17.0,13th Nov 07
+243,13394,God of War: Chains of Olympus,Action,PSP,M,3.18,7.9,8.9,79.0,9.5,565.0,04th Mar 08
+244,24659,Rayman Raving Rabbids: TV Party,Misc,Wii,E10+,2.03,7.9,7.1,24.0,,29.0,18th Nov 08
+245,23447,Star Ocean: The Last Hope,Role-Playing,X360,T,0.79,7.9,7.3,56.0,8.0,150.0,24th Feb 09
+246,32127,Tenchu: Shadow Assassins,Action,PSP,M,0.11,7.9,7.5,18.0,,18.0,24th Mar 09
+247,25288,Tenchu: Shadow Assassins,Action,Wii,M,0.21,7.9,7.0,35.0,,24.0,05th Feb 09
+249,24036,Avalon Code,Role-Playing,DS,E10+,0.24,7.8,7.1,29.0,,13.0,10th Mar 09
+250,12323,Brutal Legend,Action,PS3,M,0.94,7.8,7.9,61.0,,162.0,13th Oct 09
+251,12324,Brutal Legend,Action,X360,M,0.97,7.8,8.5,88.0,,268.0,13th Oct 09
+252,32231,Dawn of Discovery,Simulation,Wii,E10+,0.19,7.8,7.9,24.0,,15.0,23rd Jun 09
+253,18841,echochrome,Puzzle,PSP,E,0.09,,7.6,28.0,,13.0,01st May 08
+254,868,God Hand,Action,PS2,M,0.07,7.8,7.0,48.0,,165.0,10th Oct 06
+255,34039,Guitar Hero: Smash Hits,Misc,PS3,T,0.35,7.8,7.4,34.0,,9.0,16th Jun 09
+256,34040,Guitar Hero: Smash Hits,Misc,Wii,T,0.58,7.8,7.5,17.0,,6.0,16th Jun 09
+257,34041,Guitar Hero: Smash Hits,Misc,X360,T,0.42,7.8,7.1,56.0,,18.0,16th Jun 09
+258,29968,Hammerin' Hero,Action,PSP,E10+,0.07,7.8,7.0,19.0,,8.0,07th Apr 09
+259,24233,Just Cause 2,Action,PC,M,0.12,7.8,8.2,33.0,,838.0,23rd Mar 10
+260,24231,Just Cause 2,Action,PS3,M,1.75,7.8,8.3,66.0,,291.0,23rd Mar 10
+261,24232,Just Cause 2,Action,X360,M,1.6,7.8,8.0,74.0,,267.0,23rd Mar 10
+262,28181,Marble Saga: Kororinpa,Puzzle,Wii,E,0.16,7.8,7.4,16.0,,6.0,17th Mar 09
+264,18886,Naruto: Ultimate Ninja Storm,Fighting,PS3,T,1.07,7.8,7.8,32.0,,95.0,04th Nov 08
+265,32804,Phantom Brave: We Meet Again,Role-Playing,Wii,T,0.13,7.8,7.6,12.0,,15.0,11th Aug 09
+266,35000,Rabbids Go Home,Adventure,Wii,E10+,1.12,7.8,8.0,50.0,,32.0,03rd Nov 09
+267,32175,Rock Band Unplugged,Misc,PSP,T,0.48,7.8,8.0,50.0,,31.0,09th Jun 09
+268,50346,Sesame Street: Once Upon A Monster,Misc,X360,E,0.52,7.8,8.0,26.0,,22.0,11th Oct 11
+269,25899,Dead Rising: Chop Till You Drop,Action,Wii,M,0.29,7.7,6.7,30.0,7.2,35.0,24th Feb 09
+270,33663,Fallout: New Vegas,Role-Playing,X360,M,4.05,7.7,8.2,81.0,,769.0,19th Oct 10
+271,7115,Folklore,Role-Playing,PS3,T,0.32,7.7,7.5,55.0,8.7,145.0,09th Oct 07
+273,32429,Singularity,Shooter,X360,M,0.32,7.7,7.7,70.0,,169.0,29th Jun 10
+274,39124,Skate 3,Sports,PS3,T,1.98,7.7,,46.0,,82.0,11th May 10
+275,39125,Skate 3,Sports,X360,T,2.63,7.7,8.3,65.0,,127.0,11th May 10
+276,28673,Big Bang Mini,Shooter,DS,E,0.06,7.6,8.0,39.0,,26.0,21st Jan 09
+277,16724,Deadly Creatures,Action,Wii,T,0.22,7.6,6.9,45.0,6.8,36.0,09th Feb 09
+278,57526,Football Manager 2012,Sports,PC,E,1.51,7.6,8.5,45.0,,172.0,21st Oct 11
+279,34467,Lunar: Silver Star Harmony,Role-Playing,PSP,T,0.24,7.6,7.9,26.0,,47.0,02nd Mar 10
+280,34956,Wolfenstein,Shooter,PC,M,0.05,7.6,6.5,41.0,8.0,261.0,18th Aug 09
+281,12727,Assassin's Creed,Action,PS3,M,4.82,7.5,8.2,40.0,8.5,769.0,13th Nov 07
+282,12728,Assassin's Creed,Action,X360,M,5.54,7.5,8.2,77.0,8.0,1074.0,13th Nov 07
+283,18646,Death Jr.: Root of Evil,Platform,Wii,T,0.11,7.5,7.3,14.0,,14.0,27th May 08
+284,27150,Eternal Sonata,Role-Playing,PS3,T,0.44,7.5,8.3,34.0,,117.0,21st Oct 08
+285,24704,Far Cry 2,Shooter,PS3,M,1.38,7.5,8.4,49.0,,241.0,21st Oct 08
+286,24703,Far Cry 2,Shooter,X360,M,1.59,7.5,8.5,75.0,,288.0,21st Oct 08
+287,19095,LEGO Batman: The Videogame,Adventure,PC,E10+,0.06,7.5,7.4,15.0,,61.0,23rd Sep 08
+288,19096,LEGO Batman: The Videogame,Adventure,PS2,E10+,1.27,7.5,7.6,8.0,,17.0,23rd Sep 08
+289,13866,LEGO Batman: The Videogame,Adventure,PS3,E10+,1.29,7.5,7.2,24.0,,33.0,23rd Sep 08
+290,23937,LEGO Batman: The Videogame,Adventure,Wii,E10+,3.06,7.5,7.3,17.0,,22.0,23rd Sep 08
+291,13867,LEGO Batman: The Videogame,Adventure,X360,E10+,3.38,7.5,7.5,49.0,,75.0,23rd Sep 08
+292,32302,Lost Planet 2,Shooter,PS3,T,0.95,7.5,6.6,56.0,,62.0,11th May 10
+294,23088,Mana Khemia 2: Fall of Alchemy,Role-Playing,PS2,T,0.2,7.5,8.2,12.0,,17.0,25th Aug 09
+295,34266,"Sakura Wars: So Long, My Love",Role-Playing,Wii,T,0.1,7.5,7.4,30.0,,31.0,30th Mar 10
+296,36725,Shin Megami Tensei: Strange Journey,Role-Playing,DS,M,0.28,7.5,8.0,26.0,,69.0,23rd Mar 10
+297,12723,SingStar Legends,Misc,PS2,T,1.1,7.5,,25.0,,,04th Nov 08
+298,57501,Grand Slam Tennis 2,Sports,X360,E,0.18,7.4,,45.0,,14.0,14th Feb 12
+299,33725,MySims Agents,Adventure,Wii,E,1.03,7.4,7.5,28.0,,28.0,29th Sep 09
+300,12561,Silent Hill: Origins,Action,PSP,M,0.52,7.4,7.8,40.0,,107.0,06th Nov 07
+301,16779,Time Hollow,Adventure,DS,T,0.16,7.4,,24.0,,21.0,23rd Sep 08
+303,30924,Broken Sword: Shadow of the Templars - The Director's Cut,Adventure,Wii,T,0.24,7.3,7.5,29.0,,14.0,24th Mar 09
+304,13719,Ghostbusters: The Video Game,Action,Wii,E10+,0.86,7.3,7.6,29.0,,28.0,16th Jun 09
+306,31151,Need for Speed: Nitro,Racing,Wii,E10+,0.83,7.3,7.0,41.0,,38.0,02nd Nov 09
+307,13793,Star Wars: The Force Unleashed,Action,Wii,T,1.86,7.3,6.8,18.0,7.4,75.0,16th Sep 08
+308,35319,Aliens vs Predator,Shooter,PS3,M,1.04,7.2,6.1,57.0,,168.0,16th Feb 10
+309,35318,Aliens vs Predator,Shooter,X360,M,1.06,7.2,6.0,64.0,,247.0,16th Feb 10
+310,32227,Dante's Inferno,Action,PS3,M,1.08,7.2,7.3,69.0,8.3,265.0,09th Feb 10
+311,32240,Dante's Inferno,Action,X360,M,0.92,7.2,7.0,71.0,,224.0,09th Feb 10
+312,70752,DiRT Showdown,Racing,X360,E10+,0.23,7.2,,53.0,,53.0,12th Jun 12
+313,45606,Kinectimals,Simulation,X360,E,1.62,7.2,7.5,50.0,,69.0,04th Nov 10
+314,34611,Klonoa,Platform,Wii,E10+,0.16,7.2,7.6,37.0,,39.0,05th May 09
+315,33692,LEGO Rock Band,Misc,PS3,E10+,0.42,7.2,7.4,36.0,,18.0,03rd Nov 09
+316,33693,LEGO Rock Band,Misc,X360,E10+,0.56,7.2,7.3,50.0,,31.0,03rd Nov 09
+317,41326,Medal of Honor,Shooter,X360,M,2.61,7.2,7.3,71.0,,288.0,12th Oct 10
+318,35516,MotoGP 09/10,Racing,PS3,E,0.22,7.2,7.0,42.0,,28.0,23rd Mar 10
+319,35515,MotoGP 09/10,Racing,X360,E,0.17,7.2,7.0,41.0,,41.0,23rd Mar 10
+320,34368,Shin Megami Tensei: Persona,Role-Playing,PSP,T,0.22,7.2,7.6,30.0,,47.0,22nd Sep 09
+321,24042,Skate it,Sports,Wii,E,0.58,7.2,6.6,37.0,,25.0,19th Nov 08
+322,7136,Tales of Symphonia: Dawn of the New World,Role-Playing,Wii,T,0.52,7.2,6.8,46.0,8.3,93.0,11th Nov 08
+323,24776,The Legendary Starfy,Platform,DS,E,0.85,7.2,7.1,25.0,,26.0,08th Jun 09
+324,25078,Theresia...,Adventure,DS,M,0.06,,,6.0,,8.0,30th Oct 08
+325,19097,LEGO Batman: The Videogame,Adventure,PSP,E10+,1.28,7.1,7.9,5.0,,10.0,23rd Sep 08
+326,25999,Skate it,Sports,DS,E,0.17,7.1,,13.0,,12.0,19th Nov 08
+327,53262,Aliens: Infestation,Action,DS,T,0.16,7.0,8.5,43.0,,29.0,11th Oct 11
+328,29089,Legends of WrestleMania,Fighting,PS3,T,0.54,7.0,,43.0,,19.0,24th Mar 09
+330,84501,Ultimate NES Remix,Action,3DS,E,0.27,7.0,7.0,16.0,,32.0,05th Dec 14
+331,45626,Your Shape: Fitness Evolved,Sports,X360,E,1.32,7.0,7.0,32.0,,25.0,04th Nov 10
+332,6059,Crush,Puzzle,PSP,E10+,0.08,7.0,8.5,41.0,,21.0,29th May 07
+333,33704,Dante's Inferno,Action,PSP,M,0.19,7.0,6.6,14.0,,46.0,02nd Mar 10
+334,495,Deep Labyrinth,Action,DS,E10+,0.07,7.0,,18.0,,4.0,15th Aug 06
+335,29091,Legends of WrestleMania,Fighting,X360,T,0.39,7.0,,59.0,,23.0,24th Mar 09
+336,1889,Resident Evil: Deadly Silence,Action,DS,M,0.26,7.0,6.7,41.0,,36.0,07th Feb 06
+337,6971,Resident Evil: The Umbrella Chronicles,Shooter,Wii,M,1.52,7.0,7.5,47.0,8.0,122.0,13th Nov 07
+339,23929,Shaun White Snowboarding,Sports,PS3,T,0.65,7.0,6.0,30.0,,26.0,16th Nov 08
+340,23930,Shaun White Snowboarding,Sports,X360,T,0.81,7.0,6.2,48.0,,25.0,16th Nov 08
+341,31139,Fragile Dreams: Farewell Ruins of the Moon,Role-Playing,Wii,T,0.36,6.9,6.7,41.0,,63.0,16th Mar 10
+342,33471,Ice Age: Dawn of the Dinosaurs,Platform,PC,E10+,0.02,6.9,6.8,5.0,,,30th Jun 09
+343,33467,Ice Age: Dawn of the Dinosaurs,Platform,PS2,E10+,0.17,6.9,,,,,30th Jun 09
+344,33469,Ice Age: Dawn of the Dinosaurs,Platform,PS3,E10+,0.19,6.9,6.6,23.0,,7.0,30th Jun 09
+345,36107,Ice Age: Dawn of the Dinosaurs,Platform,Wii,E10+,0.27,6.9,7.2,12.0,,6.0,30th Jun 09
+346,33470,Ice Age: Dawn of the Dinosaurs,Platform,X360,E10+,0.12,6.9,6.7,28.0,,6.0,30th Jun 09
+347,13012,Link's Crossbow Training,Shooter,Wii,T,4.98,6.9,6.9,34.0,,47.0,19th Nov 07
+348,24660,Animal Crossing: City Folk,Simulation,Wii,E,4.62,6.8,7.1,50.0,8.8,119.0,16th Nov 08
+349,27254,Armored Core: For Answer,Simulation,PS3,T,0.19,6.8,6.1,22.0,,31.0,16th Sep 08
+350,7138,Final Fantasy Crystal Chronicles: The Crystal Bearers,Adventure,Wii,T,0.39,6.8,6.7,53.0,,70.0,26th Dec 09
+351,51748,Kinect: Disneyland Adventures,Action-Adventure,X360,E10+,2.35,6.8,8.5,33.0,,67.0,15th Nov 11
+352,33694,LEGO Rock Band,Misc,Wii,E10+,0.69,6.8,6.8,15.0,,6.0,03rd Nov 09
+353,32551,Miami Law,Adventure,DS,T,0.1,6.8,5.5,14.0,,4.0,09th Jun 09
+354,45479,MotorStorm: Apocalypse,Racing,PS3,T,0.48,6.8,7.6,74.0,,155.0,03rd May 11
+355,35480,NBA 2K10,Sports,Wii,E,0.37,6.8,5.1,,,11.0,09th Nov 09
+356,78529,Tropico 5,Simulation,PC,T,0.12,6.8,,51.0,,351.0,01st Jan 15
+357,28518,Dynasty Warriors: Gundam 2,Action,PS2,T,0.34,6.7,4.9,8.0,,8.0,21st Apr 09
+359,12350,The Eye of Judgment,Strategy,PS3,T,0.33,6.7,7.5,43.0,,51.0,24th Oct 07
+360,2519,Trace Memory,Adventure,DS,T,0.29,6.7,6.5,51.0,,42.0,26th Sep 05
+361,13823,Wet,Shooter,PS3,M,0.61,6.7,6.9,61.0,,55.0,15th Sep 09
+362,13824,Wet,Shooter,X360,M,0.5,6.7,6.9,79.0,,86.0,15th Sep 09
+364,22053,Too Human,Role-Playing,X360,T,0.78,6.6,6.5,80.0,,458.0,19th Aug 08
+365,22964,Dokapon Kingdom,Role-Playing,Wii,E10+,0.13,6.5,7.2,11.0,,17.0,14th Oct 08
+366,34360,Dragon Ball Z: Attack of the Saiyans,Role-Playing,DS,E10+,0.36,6.5,7.2,21.0,,24.0,10th Nov 09
+367,34641,Dragon Ball: Raging Blast,Fighting,PS3,T,0.77,,5.6,26.0,,58.0,10th Nov 09
+368,34642,Dragon Ball: Raging Blast,Fighting,X360,T,0.51,6.5,5.8,29.0,,33.0,10th Nov 09
+369,24721,Lock's Quest,Strategy,DS,E,0.09,6.5,,32.0,,27.0,08th Sep 08
+370,33245,Pimp My Ride: Street Racing,Racing,DS,E,0.03,6.5,,,,,24th Mar 09
+371,12261,The Last Remnant,Role-Playing,X360,M,0.68,6.5,6.5,49.0,8.0,122.0,20th Nov 08
+372,26765,Wanted: Weapons of Fate,Shooter,PS3,M,0.29,6.5,6.2,56.0,,25.0,24th Mar 09
+373,26764,Wanted: Weapons of Fate,Shooter,X360,M,0.37,6.5,6.2,61.0,,26.0,24th Mar 09
+374,21877,007: Quantum of Solace,Shooter,Wii,T,0.65,6.4,5.6,11.0,,26.0,04th Nov 08
+375,28519,Dynasty Warriors: Gundam 2,Action,PS3,T,0.49,6.4,5.9,22.0,,28.0,21st Apr 09
+376,28520,Dynasty Warriors: Gundam 2,Action,X360,T,0.19,6.4,5.6,30.0,,18.0,21st Apr 09
+377,22477,Glory of Heracles,Role-Playing,DS,E10+,0.29,6.4,6.8,23.0,,18.0,18th Jan 10
+378,33465,Obscure: The Aftermath,Adventure,PSP,M,0.09,6.4,6.5,25.0,,20.0,29th Sep 09
+379,25607,Real Heroes: Firefighter,Action,Wii,E10+,0.64,6.3,7.4,18.0,,10.0,04th Aug 09
+380,19430,Black Sigil: Blade of the Exiled,Role-Playing,DS,E,0.05,6.2,6.0,24.0,,20.0,09th Jun 09
+381,27308,Final Fantasy Crystal Chronicles: Echoes of Time,Role-Playing,Wii,E10+,0.25,6.2,6.9,29.0,,11.0,24th Mar 09
+382,45608,Kinect Adventures!,Party,X360,E,21.81,6.2,6.7,45.0,,106.0,04th Nov 10
+383,7690,White Knight Chronicles: International Edition,Role-Playing,PS3,T,0.93,6.2,6.3,77.0,7.9,213.0,02nd Feb 10
+386,32700,G.I. Joe: The Rise of Cobra,Action,DS,E10+,0.14,6.1,5.6,16.0,,4.0,04th Aug 09
+387,1210,Lunar: Dragon Song,Role-Playing,DS,E10+,0.12,6.1,5.9,30.0,,17.0,27th Sep 05
+388,33338,The BIGS 2,Sports,Wii,E10+,0.29,6.1,6.3,5.0,,6.0,07th Jul 09
+389,7004,Baroque,Role-Playing,PS2,T,0.13,6.0,,6.0,,44.0,08th Apr 08
+390,17791,Baroque,Role-Playing,Wii,T,0.07,6.0,5.2,22.0,,24.0,08th Apr 08
+391,42151,Fat Princess: Fistful of Cake,Action,PSP,T,0.12,6.0,7.0,33.0,,25.0,04th May 10
+392,30969,Indiana Jones and the Staff of Kings,Action,Wii,T,0.72,6.0,5.1,32.0,,28.0,09th Jun 09
+393,30606,Trivial Pursuit,Misc,Wii,E,0.57,6.0,7.3,11.0,,,10th Mar 09
+394,36598,Family Feud: 2010 Edition,Misc,Wii,E,0.62,5.9,,,,,29th Sep 09
+395,31621,Gardening Mama,Puzzle,DS,E,1.35,5.9,6.6,17.0,,4.0,31st Mar 09
+396,72139,The Sims 4,Simulation,PC,T,3.05,5.8,7.0,74.0,,2057.0,02nd Sep 14
+397,17062,Afro Samurai,Action,PS3,M,0.2,5.7,6.5,52.0,,27.0,27th Jan 09
+398,17061,Afro Samurai,Action,X360,M,0.24,5.7,6.4,70.0,,57.0,27th Jan 09
+399,25384,The Lord of the Rings: Conquest,Action,PS3,T,0.74,,5.8,45.0,,57.0,13th Jan 09
+400,43864,Bodycount,Shooter,X360,M,0.11,5.5,4.8,61.0,,73.0,30th Aug 11
+401,35187,Assassin's Creed: Bloodlines,Action,PSP,M,1.23,5.4,6.3,38.0,,69.0,17th Nov 09
+402,33337,Night at the Museum: Battle of the Smithsonian,Action,X360,E10+,0.11,5.3,5.4,15.0,,8.0,05th May 09
+403,25383,The Lord of the Rings: Conquest,Action,X360,T,0.63,5.3,5.9,58.0,,110.0,13th Jan 09
+404,2666,Wii Play,Misc,Wii,E,28.92,5.3,5.9,41.0,4.5,129.0,12th Feb 07
+405,35502,Academy of Champions: Soccer,Sports,Wii,E,0.12,5.2,7.1,20.0,,14.0,03rd Nov 09
+407,34463,Hasbro Family Game Night 2,Misc,Wii,E,1.35,5.0,6.4,16.0,,6.0,27th Oct 09
+408,36473,NERF N-Strike Elite,Shooter,Wii,E10+,1.0,5.0,7.5,12.0,,6.0,26th Oct 09
+410,7565,Hot Pixel,Puzzle,PSP,T,0.03,4.8,5.7,35.0,,6.0,02nd Oct 07
+411,32699,G.I. Joe: The Rise of Cobra,Action,X360,T,0.24,4.7,3.8,59.0,,22.0,04th Aug 09
+412,25941,Unsolved Crimes,Adventure,DS,T,0.05,4.6,6.0,20.0,,,30th Sep 08
+413,18655,Jake Hunter Detective Story: Memories of the Past,Adventure,DS,T,0.11,4.5,,5.0,,,26th May 09
+414,25684,Major Minor's Majestic March,Misc,Wii,E,0.05,4.5,4.5,16.0,,,02nd Apr 09
+415,31885,Sudoku Ball Detective,Puzzle,DS,E10+,0.06,4.4,5.0,6.0,,,22nd Sep 09
+418,34286,Last Rebellion,Role-Playing,PS3,T,0.09,4.2,4.8,30.0,,34.0,23rd Feb 10
+419,48605,Dreamcast Collection,Misc,X360,T,0.24,4.0,5.3,31.0,,10.0,22nd Feb 11
+420,40628,Deadly Premonition,Action,X360,M,0.26,4.0,6.0,39.0,7.8,332.0,23rd Feb 10
+421,28278,"Flower, Sun, and Rain",Adventure,DS,T,0.07,4.0,5.7,37.0,,15.0,15th Jun 09
+422,42625,Dead or Alive Paradise,Misc,PSP,M,0.18,3.7,4.5,34.0,,37.0,30th Mar 10
+423,28274,America's Next Top Model,Simulation,DS,E10+,0.1,3.5,,,,,01st Jun 10
+424,16958,Lost: Via Domus,Action,PS3,T,0.5,3.5,,30.0,,28.0,26th Feb 08
+425,24708,Brave: A Warrior's Tale,Action,Wii,E10+,0.06,3.2,4.7,13.0,,,04th Aug 09
+426,23581,Brothers in Arms: Double Time,Shooter,Wii,M,0.13,3.2,4.6,13.0,,17.0,23rd Sep 08
+427,23754,Velvet Assassin,Shooter,X360,M,0.18,3.2,5.3,46.0,,55.0,30th Apr 09
+428,24538,Stormrise,Strategy,PC,M,0.02,3.1,,15.0,,22.0,24th Mar 09
+429,17668,NCAA Football 09 All-Play,Sports,Wii,E,0.16,3.0,5.3,5.0,,32.0,15th Jul 08
+430,14604,Golden Axe: Beast Rider,Action,PS3,M,0.32,,4.5,30.0,,23.0,14th Oct 08
+431,14603,Golden Axe: Beast Rider,Action,X360,M,0.33,,4.0,33.0,7.0,33.0,14th Oct 08

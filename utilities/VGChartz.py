@@ -81,7 +81,7 @@ def scrap(soap: BeautifulSoup = None) -> list:
     return lst[2:]
 
 def get_games_data(start_page:int=1, end_page:int=306):
-    if not exists('data/VGChartz.csv'):
+    if not exists('data/Data.csv'):
         df_list = list()
         for page in track(range(start_page, end_page)):
             soap_ = request_url(
@@ -94,5 +94,5 @@ def get_games_data(start_page:int=1, end_page:int=306):
             lst.append(get_games_details(i))
         return df.merge(pd.DataFrame(lst), on='ID')
     else:
-        df = pd.read_csv('data/VGChartz.csv').drop('Unnamed: 0', axis=1)
+        df = pd.read_csv('data/Data.csv').drop('Unnamed: 0', axis=1)
         return df
