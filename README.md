@@ -39,7 +39,7 @@ IMDb movies dataset will be used for this project. The goal is to apply data pre
 
 # Resources
 ## Dataset
--  [IMDb]()
+-  [VGChartz]()
 
 **Instructor:** [**Mr. Srinivas Rao**](https://www.linkedin.com/in/srinivas-rao-52068382/)
 
