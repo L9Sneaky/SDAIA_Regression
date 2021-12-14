@@ -8,10 +8,10 @@
     <img src="https://www.engineeringbigdata.com/wp-content/uploads/soccer-shootout-game-python-class-methods-objects-loops-functions.jpg" alt="💻 Logo">
   </a>
 
-  <h3 align="center">IMDb Data Gathering, Analisist & Prediction</h3>
+  <h3 align="center">VGChartz Data Gathering, Analisist & Prediction</h3>
 
   <p align="center">
-IMDb movies dataset will be used for this project. The goal is to apply data preparation knowledge to prepare the data for the model. The model that will be used is linear regression to predict the rating based on age, gender and genre. The dataset is not found online, therefore, scraping the data from IMDb website directly will be mandatory for the analysis. The goal is to scrap the top 250 rated movie’s important features. Moreover, achieving that goal multiple pages will be visited which theoretically might add up to 500 pages to obtain all the features necessary for this project.
+VGChartz dataset will be used for this project. The goal is to apply data preparation knowledge to prepare the data for the model. The model that will be used is linear regression to predict games sales based on date of release, rating and genre. The dataset is not found online, therefore, scraping the data from VGChartz website directly will be mandatory for the analysis. The goal is to scrap important features. Moreover, achieving that goal multiple pages will be visited which theoretically might add up to 500 pages to obtain all the features necessary for this project.
   </p>
 </p>
 
