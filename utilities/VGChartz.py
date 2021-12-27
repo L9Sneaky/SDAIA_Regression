@@ -27,10 +27,13 @@ def request_url(url: str) -> BeautifulSoup:
     ----------
     BeautifulSoup object that contain the html of the given url.
     """
+    entered = 0
+    canceled = 0
     global THREAD_ID
     headers = {'User-Agent': UA.random}
     try:
         response = requests.get(url, headers=headers)
+<<<<<<< Updated upstream
         if response.status_code != 200:
             print(response.status_code)
             time.sleep(3)
@@ -38,6 +41,15 @@ def request_url(url: str) -> BeautifulSoup:
     except (requests.exceptions.ConnectionError, requests.exceptions.HTTPError, requests.exceptions.Timeout, requests.exceptions.RequestException) as e:
         print(type(e).__name__)
         time.sleep(3)
+=======
+        #console.status(f"[bold green]Working on tasks...")
+        if response != 200:
+            time.sleep(4)
+            return request_url(url)
+    except (requests.exceptions.ConnectionError, requests.exceptions.HTTPError, requests.exceptions.Timeout, requests.exceptions.RequestException) as e:
+        print(type(e).__name__)
+        time.sleep(4)
+>>>>>>> Stashed changes
         return request_url(url)
     soup = BeautifulSoup(response.content, "html5lib")
     return soup
